@@ -1,0 +1,78 @@
+.example-button-row button,
+.example-button-row a {
+    margin-right: 8px;
+}
+
+.example-selected-value {
+    margin: 15px 0;
+}
+
+mat-chip {
+    max-width: 200px;
+}
+
+
+.example-chip-list {
+    width: 100%;
+}
+
+
+.example-h2 {
+    margin: 10px;
+}
+
+.example-section {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.example-margin {
+    margin: 0 10px;
+}
+
+
+.example-h2 {
+    margin: 10px;
+}
+
+.example-section {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.example-margin {
+    margin: 0 10px;
+}
+
+
+
+
+.example-ripple-container {
+    cursor: pointer;
+    text-align: center;
+
+    width: 300px;
+    height: 300px;
+    line-height: 300px;
+
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+
+    -webkit-user-drag: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+/** Styles to make the demo look better. */
+.example-ripple-checkbox {
+    margin: 6px 12px 6px 0;
+}
+
+.example-ripple-form-field {
+    margin: 0 12px 0 0;
+}
